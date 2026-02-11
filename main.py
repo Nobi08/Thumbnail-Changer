@@ -8,7 +8,7 @@ from pyromod import listen
 # You can hardcode OR use environment variables
 
 BOT_TOKEN = "7989912852:AAGM8cbkj8whriiFuKzcpH0XHeDgBeUXgQ0
-API_ID = "23309615"        # must be int
+API_ID = 23309615   # must be int
 API_HASH = "df851f5ea654830ce6a42c1d926b3121"
 
 # =======================
